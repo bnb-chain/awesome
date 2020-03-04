@@ -6,7 +6,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 - [Awesome Binance Chaiin](#awesome-binance-chain)
     - [Tools](#tools)
-    - [wallets](#wallets)
     - [analytics](#analytics)
     - [documentations](#documentations)
 
@@ -19,10 +18,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [Binance Chain subgraph](https://github.com/proxima-one/binance-chain-subgraph): Proxima releases client for faster data queries
 * [BNBEscrow](https://gitlab.com/canyacoin/canwork/bepescrow): A stateless escrow service for BEP2 assets on Binance Chain.
 
-## Wallets
-
-* [BNB Browser](https://chrome.google.com/webstore/detail/bnb-browser/eeflaanifildahldmpahjmgmgippmgne): a chrome extension wallet for Binance Chain
-
 ## Analytics
 
 * [duneanalytics](https://explore.duneanalytics.com/public/dashboards/orYVVlec8ZaUrLr9yfDW0eyAZKMYt06Uab7qDPlx): Binance Chain data analytics platform
@@ -30,4 +25,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 ## Documentation
 
-* [javascript](https://docs.beptools.org/): JS-SDK tutorial
+* [JavaScript Tutorial](https://docs.beptools.org/): JS-SDK tutorial
