@@ -1,6 +1,6 @@
 # Awesome Binance Chain
 
-A curated list of awesome Python frameworks, libraries, software and resources.
+A curated list of awesome projects in Binance Chain Ecosystem.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
