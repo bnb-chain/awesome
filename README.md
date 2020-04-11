@@ -10,13 +10,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
     - [documentations](#documentations)
 
 
-
-
 ## Tools
 
 * [Beptools](https://beptools.org/): an open-source tool for multisend and freeze tokens
 * [Binance Chain subgraph](https://github.com/proxima-one/binance-chain-subgraph): Proxima releases client for faster data queries
 * [BNBEscrow](https://gitlab.com/canyacoin/canwork/bepescrow): A stateless escrow service for BEP2 assets on Binance Chain.
+* [Minstscan - Binance Chain Explorer](https://binance.mintscan.io/) - A fast explorer for the Binance Chain
 
 ## Analytics
 
