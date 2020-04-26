@@ -22,6 +22,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [duneanalytics](https://explore.duneanalytics.com/public/dashboards/orYVVlec8ZaUrLr9yfDW0eyAZKMYt06Uab7qDPlx): Binance Chain data analytics platform
 * [bloxy](https://stat.bloxy.info/superset/dashboard/binance/?standalone=true): One stand data source for understanding Binance DEX
+* [bitquery](https://explorer.bitquery.io/binance) GraphQL explorer of Binance Chain data
 
 ## Documentation
 
