@@ -7,7 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 - [Awesome Binance Chaiin](#awesome-binance-chain)
     - [Tools](#tools)
     - [Analytics](#analytics)
-    - [Documentations](#documentations)
+    - [Documentation](#documentation)
 
 ## Tools
 
@@ -23,6 +23,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [bloxy](https://stat.bloxy.info/superset/dashboard/binance/?standalone=true) - One stand data source for understanding Binance DEX
 * [bitquery](https://explorer.bitquery.io/binance) - GraphQL explorer of Binance Chain data
 
-## Documentations
+## Documentation
 
 * [JavaScript Tutorial](https://docs.beptools.org/) - JS-SDK tutorial
