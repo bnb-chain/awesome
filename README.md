@@ -27,6 +27,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 ### Tools
 
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
+* [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on Binance Smart Chain.
 * [BSC Ecosystem](https://github.com/binance-chain/bsc-ecosystem)
 
 ### Analytics
@@ -34,6 +35,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [Defistation](https://www.defistation.io/)
 * [Bitquery](https://bitquery.io/blog/binance-smart-chain-api)
 * [DeBank](https://debank.com/projects?type=bsc)
+
+### Documentation
+
+* [Binance Extension Wallet](https://binance-wallet.gitbook.io/binance-chain-extension-wallet)
 
 ## Binance Chain
 
