@@ -49,6 +49,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [BNBEscrow](https://gitlab.com/canyacoin/canwork/bepescrow) - A stateless escrow service for BEP2 assets on Binance Chain.
 * [smartBNB](https://github.com/safudex/smartbnb): A cross-chain bridge between NEO and Binance Chain that enables smart contracts for BEP2 assets
 * [Minstscan - Binance Chain Explorer](https://binance.mintscan.io/) - A fast explorer for the Binance Chain
+* [Morphose](https://morphose.cash) - Fully Decentralized Protocol for Private Transactions on Binance Smart Chain
 
 ### Analytics
 
