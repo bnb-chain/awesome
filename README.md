@@ -1,20 +1,20 @@
-# Awesome Binance Chain
+# Awesome BNB Chain
 
-A curated list of awesome projects in Binance Chain Ecosystem.
+A curated list of awesome projects in BNB Chain Ecosystem.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
-- [Binance Smart Chain](#binance-smart-chain)
+- [BNB Smart Chain](#bnb-smart-chain)
   * [SDK](#sdk)
   * [Tools](#tools)
   * [Analytics](#analytics)
-- [Binance Chain](#binance-chain)
+- [BNB Beacon Chain](#bnb-beacon-chain)
   * [Tools](#tools-1)
   * [Analytics](#analytics-1)
   * [Documentation](#documentation)
 
 
-## Binance Smart Chain
+## BNB Smart Chain
 
 ### SDK
 
@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [Binance Extension Wallet](https://binance-wallet.gitbook.io/binance-chain-extension-wallet)
 
-## Binance Chain
+## BNB Beacon Chain
 
 ### Tools
 
