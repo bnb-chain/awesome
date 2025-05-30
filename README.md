@@ -18,15 +18,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
   * [Documentation](#documentation)
 - [BNB Greenfield Chain](#bnb-greenfield-chain)
   * [SDK](#sdk-1)
+- [AI and Agent Toolkits](#ai-and-agent-toolkits)  
+  * [BNB Chain Agentkit](#bnb-chain-agentkit)
+  * [Example hub](#example-hub)
+
 
 ## BNB Smart Chain
 
 ### SDK
 
 * [use wallet BSC Connector](https://github.com/aragon/use-wallet/tree/master/examples)
-
 * [BNBSmartChain iOS SDK](https://github.com/centerprime/BinanceSmartChain-iOS-SDK) - BNBSmartChain iOS SDK
-
 * [BNBSmartChain iOS SDK Example](https://github.com/centerprime/BinanceSmartChain-iOS-Wallet-Sample)
 
 ### Tools
@@ -34,6 +36,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
+* [BSC Snapshots](https://github.com/bnb-chain/bsc-snapshots) – Snapshots of BNB Smart Chain full nodes for faster synchronization.
+
 
 ### Analytics
 
@@ -89,3 +93,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 ### SDK
 
 * [Greenfield SDK Proto](https://github.com/KRakenoZavr/greenfield-sdk-rust-v2.git) - Rust crate for interacting with Protobufs defined by the greenfield SDK.
+
+## AI and Agent Toolkits 
+
+The BNB Chain ecosystem is expanding with toolkits that integrate AI and blockchain technology, enabling developers to build innovative applications.
+
+### BNB Chain Agentkit 
+* [BNB Chain Agentkit](https://github.com/node-real/bnb-chain-agentkit) - A powerful toolkit based on LangChain that enables LLM agents with the ability to interact with BNB Chain ecosystem (mostly BSC currently). This allows for on-chain operations such as checking balances, transferring tokens, swapping tokens, staking, and deploying various ERC tokens through conversational AI.
+### Example hub
+* [Example hub](https://github.com/bnb-chain/example-hub) - A hub of frontend, agent kits, and smart contract examples for BNB Chain developers. Build and innovate with ready-to-use resources.
