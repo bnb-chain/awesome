@@ -38,12 +38,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
 * [BSC Snapshots](https://github.com/bnb-chain/bsc-snapshots) – Snapshots of BNB Smart Chain full nodes for faster synchronization.
 
-
 ### Analytics
 
 * [Defistation](https://www.defistation.io/)
 * [Bitquery](https://bitquery.io/blog/binance-smart-chain-api)
 * [DeBank](https://debank.com/projects?type=bsc)
+
+### Interoperability
+
+* [Reactive Network](https://dev.reactive.network) – Fully on-chain, EVM-compatible, events-driven if-this-then-that network for decentralized automation of on-chain workflows through enabling reactivity between contracts deployed either on the same or different chains.
+
 
 ## opBNB
 
