@@ -42,6 +42,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 ### Analytics
 
 * [Defistation](https://www.defistation.io/)
+* [DexPaprika](https://api.dexpaprika.com) – Free DEX data API covering BNB Chain and 33 other blockchains. Pools, tokens, OHLCV, trades, real-time streaming. No API key needed.
 * [Bitquery](https://bitquery.io/blog/binance-smart-chain-api)
 * [DeBank](https://debank.com/projects?type=bsc)
 
