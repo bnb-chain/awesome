@@ -8,6 +8,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
   * [SDK](#sdk)
   * [Tools](#tools)
   * [Analytics](#analytics)
+  * [DApps](#dapps)
 - [opBNB](#opbnb)
   * [Tools](#tools)
   * [Analytics](#analytics)
@@ -44,6 +45,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [Defistation](https://www.defistation.io/)
 * [Bitquery](https://bitquery.io/blog/binance-smart-chain-api)
 * [DeBank](https://debank.com/projects?type=bsc)
+
+### DApps
+
+Applications deployed on BNB Smart Chain.
+
+* [Rugspull](https://rugspull.com/): A high-risk BNB Chain parody protocol with an internal WBNB AMM, one disclosed all-at-once founder-token sale path, and public exact-match source.
 
 ## opBNB
 
