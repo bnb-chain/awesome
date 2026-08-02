@@ -35,6 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
+* [TurboLoop](https://www.turboloop.tech/) Dual-audited DeFi yield protocol on BNB Smart Chain offering fixed-term plans (7–60 days) with up to 54% APY, a 20-level referral system, and 100% locked liquidity.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
 * [BSC Snapshots](https://github.com/bnb-chain/bsc-snapshots) – Snapshots of BNB Smart Chain full nodes for faster synchronization.
 
