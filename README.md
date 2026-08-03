@@ -54,6 +54,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [opBNB BscScan API](https://docs.bscscan.com/opbnb) – RESTful APIs for on-chain data access. 
 * [Hardhat](https://hardhat.org) – Ethereum development environment; supports opBNB deployments. 
 * [Foundry](https://github.com/foundry-rs/foundry) – Testing and deployments for EVM chains including opBNB. 
+* [Paygate Explorer](https://paygate.love/explorer) - Free multi-chain explorer for BTC, LTC, DOGE, ETH, BSC, TON, TRON and Solana with address/tx lookup and rich lists.
 
 ### Analytics
 
