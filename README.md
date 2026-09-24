@@ -33,6 +33,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 ### Tools
 
+* [GDEX](https://gdex.pro/): Multi-chain trading terminal with BNB Smart Chain support and wallet analytics.
+
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
