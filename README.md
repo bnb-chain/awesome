@@ -35,6 +35,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 
 * [truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify)
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
+* [TRDEFI](https://yield.trdefi.com) - Live non-custodial stablecoin liquidity on BNB Smart Chain: open USDC/USDT maker positions backed by a wallet allowance, with no deposit and no lock-up, plus an API and MCP server for quoting them.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
 * [BSC Snapshots](https://github.com/bnb-chain/bsc-snapshots) – Snapshots of BNB Smart Chain full nodes for faster synchronization.
 
