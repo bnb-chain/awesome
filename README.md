@@ -30,6 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [use wallet BSC Connector](https://github.com/aragon/use-wallet/tree/master/examples)
 * [BNBSmartChain iOS SDK](https://github.com/centerprime/BinanceSmartChain-iOS-SDK) - BNBSmartChain iOS SDK
 * [BNBSmartChain iOS SDK Example](https://github.com/centerprime/BinanceSmartChain-iOS-Wallet-Sample)
+* [MARCO Connect](https://marco.melega.ai/build/docs) - SDK for integrating MARCO Passport identity and payment capabilities into BNB Smart Chain applications.
 
 ### Tools
 
