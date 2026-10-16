@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 - [AI and Agent Toolkits](#ai-and-agent-toolkits)  
   * [BNB Chain Agentkit](#bnb-chain-agentkit)
   * [Example hub](#example-hub)
+  * [Swap and market data](#swap-and-market-data)
 
 
 ## BNB Smart Chain
@@ -102,3 +103,5 @@ The BNB Chain ecosystem is expanding with toolkits that integrate AI and blockch
 * [BNB Chain Agentkit](https://github.com/node-real/bnb-chain-agentkit) - A powerful toolkit based on LangChain that enables LLM agents with the ability to interact with BNB Chain ecosystem (mostly BSC currently). This allows for on-chain operations such as checking balances, transferring tokens, swapping tokens, staking, and deploying various ERC tokens through conversational AI.
 ### Example hub
 * [Example hub](https://github.com/bnb-chain/example-hub) - A hub of frontend, agent kits, and smart contract examples for BNB Chain developers. Build and innovate with ready-to-use resources.
+### Swap and market data
+* [Chord](https://getchord.xyz/docs): Swap routing and DEX trade data for apps and AI agents on BNB Smart Chain and seven more EVM chains, over REST or a hosted MCP server; the agent's own wallet signs every swap.
