@@ -44,6 +44,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [Defistation](https://www.defistation.io/)
 * [Bitquery](https://bitquery.io/blog/binance-smart-chain-api)
 * [DeBank](https://debank.com/projects?type=bsc)
+* [Chainbrief](https://chainbrief-mocha.vercel.app) – Paste a BSC wallet/contract, pay 5 USDT, get an automated on-chain brief. Analysis only.
 
 ## opBNB
 
