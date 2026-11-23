@@ -37,6 +37,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 * [yieldwatch](https://yieldwatch.net/) Track your Yield Farming and Liquidity Pool performance on BNB Smart Chain.
 * [BSC Ecosystem](https://github.com/bnb-chain/bsc-ecosystem)
 * [BSC Snapshots](https://github.com/bnb-chain/bsc-snapshots) – Snapshots of BNB Smart Chain full nodes for faster synchronization.
+* [TheTokenLauncher](https://www.thetokenlauncher.com/bnb-token-creator/) – No-code creator for fixed-supply BEP-20 tokens on BNB Smart Chain. [Contract source](https://github.com/grahammccann2009/thetokenlauncher-bep20-token).
 
 
 ### Analytics
