@@ -21,6 +21,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/).
 - [AI and Agent Toolkits](#ai-and-agent-toolkits)  
   * [BNB Chain Agentkit](#bnb-chain-agentkit)
   * [Example hub](#example-hub)
+  * [OursMeme Agent Skills & MCP](#oursmeme-agent-skills--mcp)
 
 
 ## BNB Smart Chain
@@ -102,3 +103,5 @@ The BNB Chain ecosystem is expanding with toolkits that integrate AI and blockch
 * [BNB Chain Agentkit](https://github.com/node-real/bnb-chain-agentkit) - A powerful toolkit based on LangChain that enables LLM agents with the ability to interact with BNB Chain ecosystem (mostly BSC currently). This allows for on-chain operations such as checking balances, transferring tokens, swapping tokens, staking, and deploying various ERC tokens through conversational AI.
 ### Example hub
 * [Example hub](https://github.com/bnb-chain/example-hub) - A hub of frontend, agent kits, and smart contract examples for BNB Chain developers. Build and innovate with ready-to-use resources.
+### OursMeme Agent Skills & MCP
+* [OursMeme Agent Skills & MCP](https://github.com/muranwirebaugh-cmyk/oursmeme-agent-skills) - Permissionless 0-fee perp launchpad on BNB Chain where anyone can launch their own BTC/ETH/Gold perp market in minutes and route fees to holders/LPs/creators; provides 48 general MCP tools, 50 dedicated Binance Agentic Wallet (`baw`) MCP tools, and non-custodial `SubaccountRouter` automation.
